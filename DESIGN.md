@@ -101,17 +101,6 @@ Would need:
 4. Batch writes for optimization
 5. Redis for presence tracking
 
-### For 100K+ Users
-
-Would go full microservices:
-- Separate services for auth, messages, presence, notifications
-- Message queue (Kafka/RabbitMQ)
-- Database sharding
-- Load balancer for WebSocket servers
-- CDN for assets
-
-But thats way overkill for now.
-
 ## Trade-offs Made
 
 ### Firebase vs Custom Backend

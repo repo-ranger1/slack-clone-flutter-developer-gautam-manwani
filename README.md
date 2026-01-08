@@ -29,11 +29,7 @@ A real-time messaging app built with Flutter and Firebase. Its basically like Sl
 
 1. Clone the repo
 2. Run `flutter pub get`
-3. Setup Firebase:
-   - Run `flutterfire configure`
-   - Or manually add your `firebase_options.dart`
-4. Enable Firestore and Authentication in Firebase console
-5. Run `flutter run`
+3. Run `flutter run`
 
 Thats it!
 
@@ -76,9 +72,3 @@ With more time I would add:
 - Push notifications
 - Search functionality
 - Thread replies
-
-## Notes
-
-This is demo app built for assessment purpose. Using Firebase free tier so should work fine for testing. All users share same workspace ("default-workspace").
-
-Firebase wont break if you change app name/bundle - it uses the config in `firebase_options.dart` which stays same.
