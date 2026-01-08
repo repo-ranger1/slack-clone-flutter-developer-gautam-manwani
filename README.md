@@ -50,11 +50,9 @@ lib/
 
 ## Demo
 
-### Video Demo
-[Add your demo video here]
+### [Video Demo](https://drive.google.com/file/d/10vBG95-ReEhoDcx2E92HCS-PUxr6pw6N/view?usp=sharing)
 
-### Download APK
-[Add Google Drive link to APK here]
+### [Download APK](https://drive.google.com/file/d/1A3dWaOzJfWoKwce0nAorPDFsv35w-hJ0/view?usp=drive_link)
 
 ## How it Works
 
